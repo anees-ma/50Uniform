@@ -1,0 +1,13 @@
+[31-Aug-2018 16:02:16 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 40
+[31-Aug-2018 17:44:58 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 19
+[31-Aug-2018 17:44:58 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 20
+[31-Aug-2018 17:44:58 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 21
+[31-Aug-2018 17:44:58 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 22
+[31-Aug-2018 17:44:59 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 19
+[31-Aug-2018 17:44:59 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 20
+[31-Aug-2018 17:44:59 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 21
+[31-Aug-2018 17:44:59 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 22
+[31-Aug-2018 17:45:28 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 19
+[31-Aug-2018 17:45:28 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 20
+[31-Aug-2018 17:45:28 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 21
+[31-Aug-2018 17:45:28 UTC] PHP Notice:  Undefined variable: _post in /home/rjoyc54v0siv/public_html/50uniform.com/sscc/sendemail.php on line 22
